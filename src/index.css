@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 body,
 html {
   font-family: "Poppins", sans-serif;
@@ -14,20 +14,3 @@ html {
   --black: rgb(37, 37, 37);
 }
 
-=======
-body,
-html {
-  font-family: "Poppins", sans-serif;
-  margin: 0;
-  padding: 0;
-  color: var(--black);
-  width: 100%;
-}
-
-:root {
-  --purple: rgb(84, 37, 179);
-  --blue: rgb(17, 37, 218);
-  --black: rgb(37, 37, 37);
-}
-
->>>>>>> 4e6007acb62e6b85b2e00e5ec736128cfa1ca593

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import "./About.css";
 
 function About() {
@@ -33,36 +32,3 @@ function About() {
 }
 
 export default About;
-=======
-import "./About.css";
-
-function About() {
-  return (
-    <div id="about" className="About-container">
-      <div className="About-title">
-        <h2>About Me</h2>
-      </div>
-      <div className="About-container-2">
-        <div className="About-text">
-          <div className="About-image"></div>
-          <h3>An enthusiast Web Developer &#128187;</h3>
-          <p>
-            As a Full-Stack Developer, I turn <span>ideas</span> into
-            <span> interfaces</span>. I am capable of handling any obstacles,
-            challenges or problems. Being a <span>focused</span> and
-            <span> disciplined</span> person make me a wise choice. Using
-            <span> React</span> with <span>Redux</span>, I can make
-            <span> attractive, interactive</span> and
-            <span> professional websites</span>. <br />
-            In my free time, I love reading, going to the gym and trekking in
-            the woods. I think being in peace with myself is a very important
-            aspect when it comes to working in an efficient and tidy way.
-          </p>
-        </div>
-      </div>
-    </div>
-  );
-}
-
-export default About;
->>>>>>> 4e6007acb62e6b85b2e00e5ec736128cfa1ca593
