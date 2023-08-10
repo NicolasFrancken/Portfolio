@@ -55,11 +55,20 @@ function Proyects() {
 
         <div className="proyect-2 proyect-container">
           <div className="right">
-            <a className="img-link" href="" target="_blank" rel="noreferrer">
+            <a
+              className="img-link"
+              href="https://notecloud-webapp.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
               <div className="img-proyect-2"></div>
             </a>
             <div className="proyect-links">
-              <a href="" target="_blank" rel="noreferrer">
+              <a
+                href="https://notecloud-webapp.netlify.app/"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <i className="bx bx-sm bx-globe"></i>
               </a>
               <a
