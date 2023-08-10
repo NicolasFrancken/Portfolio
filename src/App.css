@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+.Contact-Footer-container {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 6.5rem;
+  background-color: rgb(237, 237, 237);;
+=======
+.Contact-Footer-container {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 6.5rem;
+  background-color: rgb(237, 237, 237);;
+>>>>>>> 4e6007acb62e6b85b2e00e5ec736128cfa1ca593
+}

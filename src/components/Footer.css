@@ -1,0 +1,67 @@
+<<<<<<< HEAD
+.Footer{
+  height: 6.5rem;
+  width: 100%;
+  background: linear-gradient(to right, var(--black), var(--purple));
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Footer p {
+  margin: 0;
+  color: white;
+  font-weight: 400;
+}
+
+@media only screen and (max-width: 750px) {
+  .Footer {
+    height: 5.5rem;
+  }
+  .Footer p {
+    font-size: 0.8rem;
+  }
+}
+
+@media only screen and (max-width: 450px) {
+  .Footer {
+    height: 4.5rem;
+  }
+  .Footer p {
+    font-size: 0.6rem;
+  }
+}
+=======
+.Footer{
+  height: 6.5rem;
+  width: 100%;
+  background: linear-gradient(to right, var(--black), var(--purple));
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Footer p {
+  margin: 0;
+  color: white;
+  font-weight: 400;
+}
+
+@media only screen and (max-width: 750px) {
+  .Footer {
+    height: 5.5rem;
+  }
+  .Footer p {
+    font-size: 0.8rem;
+  }
+}
+
+@media only screen and (max-width: 450px) {
+  .Footer {
+    height: 4.5rem;
+  }
+  .Footer p {
+    font-size: 0.6rem;
+  }
+}
+>>>>>>> 4e6007acb62e6b85b2e00e5ec736128cfa1ca593
