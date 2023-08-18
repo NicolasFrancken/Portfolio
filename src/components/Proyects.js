@@ -57,7 +57,7 @@ function Proyects() {
           <div className="right">
             <a
               className="img-link"
-              href="https://notecloud-webapp.netlify.app/"
+              href="https://nicavideo-webapp.netlify.app/"
               target="_blank"
               rel="noreferrer"
             >
@@ -65,14 +65,14 @@ function Proyects() {
             </a>
             <div className="proyect-links">
               <a
-                href="https://notecloud-webapp.netlify.app/"
+                href="https://nicavideo-webapp.netlify.app/"
                 target="_blank"
                 rel="noreferrer"
               >
                 <i className="bx bx-sm bx-globe"></i>
               </a>
               <a
-                href="https://github.com/NicolasFrancken/TO-DOs"
+                href="https://github.com/NicolasFrancken/NicaVideo-Frontend"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -82,11 +82,11 @@ function Proyects() {
           </div>
           <div className="left">
             <div className="top">
-              <h3 className="proyect-title">My TO-DO's 📋</h3>
+              <h3 className="proyect-title">NicaVideo 🎥</h3>
               <p className="proyect-description">
-                A tasks app with User authentication. You can create an account
-                and start creating, updating and checking tasks! Multiple pages,
-                JWT Authentication and a full server (with a MongoDB database)
+                A video platform with user authentication, uploads, likes, etc.
+                Multiple pages, JWT auth, uploads and a full server (with a
+                PostgreSQL DB)
               </p>
             </div>
 
@@ -94,9 +94,9 @@ function Proyects() {
               <h3>Tech used</h3>
               <div className="proyect-skills">
                 <div className="skill-a"></div>
-                <div className="skill-d"></div>
-                <div className="skill-e"></div>
                 <div className="skill-g"></div>
+                <div className="skill-e"></div>
+                <div className="skill-f"></div>
               </div>
             </div>
           </div>
