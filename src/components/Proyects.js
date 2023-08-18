@@ -10,7 +10,7 @@ function Proyects() {
         <div className="proyect-1 proyect-container">
           <div className="left">
             <div className="top">
-              <h3 className="proyect-title">GYMATE Landing Page &#128170;</h3>
+              <h3 className="proyect-title">GYMATE &#128170;</h3>
               <p className="proyect-description">
                 A personalized landing page for an imaginary client. Beautiful
                 and minimalistic.
