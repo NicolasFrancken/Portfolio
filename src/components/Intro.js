@@ -5,10 +5,10 @@ function Intro() {
     <section id="home" className="intro-section">
       <div className="intro-top">
         <div className="intro-title">
-          <h1>Full-Stack Web Developer.</h1>
+          <h1>Full Stack Developer.</h1>
           <p className="intro-p">
-            Hi, I'm <span>Nicolas Francken</span>. <br />A passionate Full-Stack
-            Web Developer from Argentina.
+            Hi, I'm <span>Nicolas Francken</span>. <br />A passionate Full Stack
+            Developer from Argentina.
           </p>
           <ul className="intro-ul">
             <li>
