@@ -34,7 +34,7 @@
   height: fit-content;
 }
 
-.proyect-1, .proyect-2, .proyect-3, .proyect-4 {
+.proyect-1, .proyect-2, .proyect-3, .proyect-4, .proyect-5 {
   background-color: white;
   border-radius: 2rem;
   box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
@@ -92,7 +92,8 @@
 .img-proyect-1,
 .img-proyect-2,
 .img-proyect-3,
-.img-proyect-4 {
+.img-proyect-4,
+.img-proyect-5 {
   width: 25rem;
   height: 15rem;
   border-radius: 2rem;
@@ -104,7 +105,8 @@
 .img-proyect-1:hover,
 .img-proyect-2:hover,
 .img-proyect-3:hover,
-.img-proyect-4:hover  {
+.img-proyect-4:hover,
+.img-proyect-5:hover  {
   transform: scale(1.01);
 }
 
@@ -134,6 +136,13 @@
   background-size: contain;
   background-repeat: no-repeat;
   background-position-y: top;
+}
+
+.img-proyect-5 {
+  background: url("../../public/images/Transporte.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .proyect-links {

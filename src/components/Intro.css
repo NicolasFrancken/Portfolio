@@ -1,8 +1,7 @@
 .intro-section {
   box-sizing: border-box;
   padding: 11rem 11rem 6.5rem 11rem;
-  height: 100vh;
-  min-height: 900px;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
