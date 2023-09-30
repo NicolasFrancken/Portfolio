@@ -24,7 +24,7 @@
   display: grid;
   gap: 3rem;
   grid-template-columns: minmax(0, 1fr);
-  grid-template-rows: minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1fr);
+  grid-template-rows: minmax(0, 1fr) 
 }
 
 .proyect-container {
@@ -96,7 +96,7 @@
 .img-proyect-5 {
   width: 25rem;
   height: 15rem;
-  border-radius: 2rem;
+  border-radius: 1rem;
   box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
     0 4px 6px -4px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease;
@@ -236,7 +236,8 @@
   .img-proyect-1,
   .img-proyect-2,
   .img-proyect-3, 
-  .img-proyect-4{
+  .img-proyect-4,
+  .img-proyect-5{
     width: 20rem;
     height: 12rem;
   }
@@ -256,6 +257,7 @@
   .img-proyect-2,
   .img-proyect-3,
   .img-proyect-4,
+  .img-proyect-5,
   .img-link {
     background-size: cover;
     background-repeat: no-repeat;
